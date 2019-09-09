@@ -8,6 +8,7 @@
 ## Description
 
 This repository is for bioinformatics studying.
+This file is from readme-edits branch.
 
 ## Information
 
